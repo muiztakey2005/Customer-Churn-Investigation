@@ -1,0 +1,35 @@
+# Jupyter / Google Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python testing/cache
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Colab generated/local files
+*.bak
